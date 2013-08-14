@@ -1,7 +1,7 @@
 /**
  * Created by mohanraj.nagasamy on 8/11/13.
  */
-class OrderStatus {
+public class OrderStatus {
     private String code;
     private String description;
 
